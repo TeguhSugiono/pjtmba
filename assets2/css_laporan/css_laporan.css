@@ -1,0 +1,67 @@
+.JudulHeader{
+    width: 105%;          
+    font-size: 15px;
+    border-collapse: collapse;
+    border-spacing: 0px;
+    margin-top: -3%;
+    margin-left: -2.2%;
+}
+.JudulTabel{
+    font-size: 12px;
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 105%;
+    margin-left: -2.2%;
+}
+.bordertop{
+    border-top: 1px solid black;
+}
+.borderbottom{
+    border-bottom: 1px solid black;
+}
+.borderleft{
+    border-left: 1px solid black;
+}
+.borderright{
+    border-right: 1px solid black;
+}
+.tdborderjudul{
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+}
+.paddingval{
+    padding: 3px !important;
+}
+.paddinggrand{
+    padding: 6px !important;
+}
+.font10{
+    font-size: 10px !important;
+}
+.font12{
+    font-size: 12px !important;
+}
+.font13{
+    font-size: 13px !important;
+}
+.font14{
+    font-size: 14px !important;
+}
+.no-border-bottom{
+    border-bottom: 0px;
+}
+.no-border-right{
+    border-right: 0px;
+}
+.col-1 { width: 5%; }
+.col-2 { width: 10%; }
+.col-3 { width: 9%; }
+.col-4 { width: 13%; }
+.col-5 { width: 6%; }
+.col-6 { width: 24%; }
+.col-7 { width: 10%; }
+.col-8 { width: 10%; }
+.col-9 { width: 10%; }
+.col-10 { width: 8%; }
+

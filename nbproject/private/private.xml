@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1">
+        <file>
+            <url>application/modules/invout/views/view.php</url>
+            <line>1215</line>
+        </file>
+        <file>
+            <url>application/modules/invout/controllers/C_invout.php</url>
+            <line>661</line>
+            <line>1045</line>
+        </file>
+    </editor-bookmarks>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="32">
+        <file>
+            <url>application/modules/invout/controllers/C_invout.php</url>
+            <bookmark id="32">
+                <name/>
+                <line>2209</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>application/modules/bytps/views/addbiaya.php</url>
+            <bookmark id="4">
+                <name/>
+                <line>365</line>
+                <key/>
+            </bookmark>
+            <bookmark id="3">
+                <name/>
+                <line>649</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>application/modules/invout/views/view.php</url>
+            <bookmark id="8">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="16">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="25">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="17">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="26">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+            <bookmark id="27">
+                <name/>
+                <line>887</line>
+                <key/>
+            </bookmark>
+            <bookmark id="28">
+                <name/>
+                <line>1193</line>
+                <key/>
+            </bookmark>
+            <bookmark id="29">
+                <name/>
+                <line>1229</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Data/UniServerZ/www/tppmsa/application/modules/invout/views/view.php</file>
+            <file>file:/E:/Data/UniServerZ/www/tppmsa/application/modules/invout/controllers/C_invout.php</file>
+            <file>file:/E:/Data/UniServerZ/www/tppmsa/application/config/routes.php</file>
+        </group>
+    </open-files>
+</project-private>

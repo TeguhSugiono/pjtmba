@@ -1,0 +1,9 @@
+{
+    "poppins": {
+        "normal": "E:\\Data\\UniServerZ\\www\\tppmsa\\vendor\\dompdf\\dompdf\/lib\/fonts\/poppins_normal_442dffd12abdf0df26c14405d3f49bfa",
+        "bold": "poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc"
+    },
+    "glyphicons halflings": {
+        "normal": "glyphicons_halflings_normal_92a2f69c31fb35e17d2394c3f68dfe6a"
+    }
+}
